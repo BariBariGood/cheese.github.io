@@ -2,5 +2,5 @@
 
 ## Authors:
 
-- Ivan Del Rio
 - Ethan Kim
+- Ivan Del Rio
